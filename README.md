@@ -19,8 +19,7 @@
 
 ### 📊 LeetCode Progress
 
-- 🔥 400+ DSA problems solved *(and counting)*  
-- 💡 Focus areas: Sliding Window, Greedy, Binary Search, Heaps, DP  
+- 🔥 400+ DSA problems solved *(and counting)*    
 - ⚔️ Reattempting all choked/struggled questions — spaced repetition in place  
 - 🛠 [LeetCode Profile](https://leetcode.com/your-username) <!-- Replace with actual username -->
 
