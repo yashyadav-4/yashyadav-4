@@ -21,7 +21,7 @@
 
 - 🔥 400+ DSA problems solved *(and counting)*    
 - ⚔️ Reattempting all choked/struggled questions — spaced repetition in place  
-- 🛠 [LeetCode Profile](https://leetcode.com/your-username) <!-- Replace with actual username -->
+- 🛠 [LeetCode Profile](https://leetcode.com/u/ydvyash4122/) <!-- Replace with actual username -->
 
 ---
 
