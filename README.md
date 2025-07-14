@@ -10,7 +10,7 @@
 
 - 🧠 B.Tech CSE Student  
 - 💪 Solved over **400 LeetCode problems**  
-- 🔧 Proficient in **C++**, **Java**, and **SQL**  
+- 🔧 Proficient in **C++** and **Java** 
 - 🛠 Practicing core DSA daily — no skipping, no excuses  
 - 📚 Learning Git, GitHub, IntelliJ IDEA, and real-world dev workflows  
 - 🚀 Aiming to build real projects and contribute to open source soon
