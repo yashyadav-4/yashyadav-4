@@ -1,32 +1,36 @@
-<h1 align="center">Hi, I'm Yash Yadav 👋</h1>
+<h1 align="center">Hey, I'm Yash Yadav 👋</h1>
 
 <p align="center">
-  🚀 Aspiring Software Engineer | 💻 C++ & Java Developer | 🔍 400+ LeetCode Problems Solved
+  🚀 Competitive Programmer | 💻 C++ Developer | 📊 DSA Enthusiast  
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🧠 B.Tech CSE Student  
-- 💪 Solved over **400 LeetCode problems**  
-- 🔧 Proficient in **C++** and **Java** 
-- 🛠 Practicing core DSA daily — no skipping, no excuses  
-- 📚 Learning Git, GitHub, IntelliJ IDEA, and real-world dev workflows  
-- 🚀 Aiming to build real projects and contribute to open source soon
+- 🎓 B.Tech CSE @ Bennett University  
+- 💪 **1000+ DSA Problems Solved** across platforms  
+- 🔥 **LeetCode Rating** (Max: 1763)  
+- 🎯 Focused on mastering **Data Structures & Algorithms**  
+- 🏆 Regular participant in LeetCode, CodeChef & Codeforces contests  
+- 🚀 Building skills in real-world dev workflows & open-source  
 
 ---
 
-### 📊 LeetCode Progress
+### 📈 Competitive Programming Stats
 
-- 🔥 400+ DSA problems solved *(and counting)*    
-- ⚔️ Reattempting all choked/struggled questions — spaced repetition in place  
-- 🛠 [LeetCode Profile](https://leetcode.com/u/ydvyash4122/) <!-- Replace with actual username -->
+| Platform | Problems/Rating |
+|---------|----------------|
+| **LeetCode** | 700+ problems solved • Max Rating: **1763** |
+| **CodeChef** | Max Rating: **1538** |
+| **Codeforces** | Rating: **1196** (Newbie) |
 
 ---
 
 ### ⚙️ Tech Stack
 
 ```txt
-Languages:      C++, Java, SQL, Python (beginner)
-Tools:          Git, GitHub, IntelliJ IDEA, VS Code
+Languages:    C++, Java, SQL, Python , javascript
+Tools:        Git, GitHub, VS Code , IntelliJ IDEA
+Core Skills:  DSA, OOP, Problem Solving, Competitive Programming , web development 
+
