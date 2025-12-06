@@ -21,7 +21,7 @@
 
 | Platform | Problems/Rating |
 |---------|----------------|
-| **LeetCode** | 700+ problems solved • Max Rating: **1763** |
+| **LeetCode** | 600+ problems solved • Max Rating: **1763** |
 | **CodeChef** | Max Rating: **1538** |
 | **Codeforces** | Rating: **1196** (Newbie) |
 
