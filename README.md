@@ -10,7 +10,7 @@
 
 - 🎓 B.Tech CSE @ Bennett University  
 - 💪 **1200+ DSA Problems Solved** across platforms  
-- 🔥 **LeetCode Rating** (Max: 1846(knight))  
+- 🔥 **LeetCode Rating** (Max: 1846 (knight))  
 - 🎯 Focused on mastering **Data Structures & Algorithms**  
 - 🏆 Regular participant in LeetCode, CodeChef & Codeforces contests  
 - 🚀 Building skills in real-world dev workflows & open-source  
