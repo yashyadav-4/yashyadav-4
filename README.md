@@ -22,7 +22,7 @@
 | Platform | Problems/Rating |
 |---------|----------------|
 | **LeetCode** | 600+ problems solved • Max Rating: **1846** (knight) |
-| **CodeChef** | Max Rating: **1648** (3 star)|
+| **CodeChef** | Max Rating: **1658** (3 star)|
 | **Codeforces** | Rating: **1290** (Pupil) |
 
 ---
@@ -30,7 +30,7 @@
 ### ⚙️ Tech Stack
 
 ```txt
-Languages:    C++, Java, SQL, Python , javascript
-Tools:        Git, GitHub, VS Code , IntelliJ IDEA , Postman
+Languages:    C++, Java, javascript , typescript
+Tools:        Git, GitHub, VS Code , IntelliJ IDEA , Postman , Docker , Nginx
 Core Skills:  DSA, OOP, Problem Solving, Competitive Programming , web development 
 
