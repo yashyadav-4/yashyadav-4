@@ -9,8 +9,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech CSE @ Bennett University  
-- 💪 **1300+ DSA Problems Solved** across platforms  
-- 🔥 **LeetCode Rating** (Max: 1872 (knight))  
+- 💪 **1500+ DSA Problems Solved** across platforms  
+- 🔥 **LeetCode Rating** (Max: 1939 (knight))  
 - 🎯 Focused on mastering **Data Structures & Algorithms**  
 - 🏆 Regular participant in LeetCode, CodeChef & Codeforces contests  
 - 🚀 Building skills in real-world dev workflows & open-source  
@@ -21,7 +21,7 @@
 
 | Platform | Problems/Rating |
 |---------|----------------|
-| **LeetCode** | 650+ problems solved • Max Rating: **1872** (knight) |
+| **LeetCode** | 700+ problems solved • Max Rating: **1939** (knight) |
 | **CodeChef** | Max Rating: **1658** (3 star)|
 | **Codeforces** | Rating: **1290** (Pupil) |
 
