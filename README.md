@@ -21,7 +21,7 @@
 
 | Platform | Problems/Rating |
 |---------|----------------|
-| **LeetCode** | 750+ problems solved • Max Rating: **1939** (knight) |
+| **LeetCode** | 750+ problems solved • Max Rating: **1950** (knight) |
 | **CodeChef** | Max Rating: **1658** (3 star)|
 | **Codeforces** | Rating: **1290** (Pupil) |
 
