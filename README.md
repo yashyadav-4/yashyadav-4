@@ -9,10 +9,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech CSE @ Bennett University  
-- 💪 **1500+ DSA Problems Solved** across platforms  
-- 🔥 **LeetCode Rating** (Max: 1939 (knight))  
+- 💪 **1600+ DSA Problems Solved** across platforms  
+- 🔥 **LeetCode Rating** (Max: 1950 (knight))  
 - 🎯 Focused on mastering **Data Structures & Algorithms**  
-- 🏆 Regular participant in LeetCode, CodeChef & Codeforces contests  
+- 🏆 Regular participant in LeetCode, Atcoder, CodeChef & Codeforces contests  
 - 🚀 Building skills in real-world dev workflows & open-source  
 
 ---
@@ -21,7 +21,7 @@
 
 | Platform | Problems/Rating |
 |---------|----------------|
-| **LeetCode** | 700+ problems solved • Max Rating: **1939** (knight) |
+| **LeetCode** | 750+ problems solved • Max Rating: **1939** (knight) |
 | **CodeChef** | Max Rating: **1658** (3 star)|
 | **Codeforces** | Rating: **1290** (Pupil) |
 
@@ -30,7 +30,10 @@
 ### ⚙️ Tech Stack
 
 ```txt
-Languages:    C++, Java, javascript , typescript , python
-Tools:        Git, GitHub, VS Code , IntelliJ IDEA , Postman , Docker , Nginx ,MongoDB
-Core Skills:  DSA, OOP, Problem Solving, Competitive Programming , web development 
+Languages: C++, Java, JavaScript (ES6+), Python
+Frameworks & Libraries: React.js, Node.js, Express.js, GraphQL, BullMQ, Tailwind CSS
+Databases: MongoDB, Redis, PostgreSQL
+DevOps & Tools: Docker, Docker Compose, Nginx, Git, AWS, Azure
+Core Concepts: Algorithms, Data Structures, OOP, Distributed Systems, Microservices, Concurrency &
+Synchronization, System Design, RESTful APIs, Scalability & Reliability, Performance Optimization
 
